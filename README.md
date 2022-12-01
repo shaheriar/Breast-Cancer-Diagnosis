@@ -1,5 +1,5 @@
-# Breast-Cancer-Diagnosis
-Using different Machine Learning techniques to predict whether a breast cancer diagnosis is benign or malignant.
+# Breast Cancer Diagnosis
+Using different Machine Learning techniques such as Random Forest Classifier, SVM, and K Nearest Neighbors to predict whether a breast cancer diagnosis is benign or malignant.
 
 # Contributors
 - Afraaz Mohammed
